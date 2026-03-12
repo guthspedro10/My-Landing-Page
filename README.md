@@ -12,7 +12,6 @@ The page includes information such as:
 ## 🛠️ Technologies Used
 - HTML5  
 - CSS3  
-- JavaScript  
 
 ## 🎯 Purpose
 This project was created with the goal of:
@@ -24,7 +23,6 @@ This project was created with the goal of:
 ## 🚀 How to View
 1. Clone this repository:
 git clone https://github.com/guthspedro10/My-Landing-Page.git
-
 2. Open the `index.html` file in your browser.
 
 ## 📌 Project Status
