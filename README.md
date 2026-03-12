@@ -1,6 +1,6 @@
-# 👨‍💻 Landing Page Pessoal
-Este repositório contém o código da minha **landing page pessoal**, desenvolvida para apresentar quem eu sou, minhas habilidades e meus projetos na área de desenvolvimento.
-O objetivo da página é servir como um **portfólio online**, onde visitantes podem conhecer meu trabalho, tecnologias que utilizo e alguns projetos desenvolvidos por mim.
+# 👨🏻‍💻 Landing Page Pessoal
+Este repositório contém o código da minha **`landing page pessoal`**, desenvolvida para apresentar quem eu sou, minhas habilidades e meus projetos na área de desenvolvimento.
+O objetivo da página é servir como um **`portfólio online`**, onde visitantes podem conhecer meu trabalho, tecnologias que utilizo e alguns projetos desenvolvidos por mim.
 
 A página apresenta informações como:
 
