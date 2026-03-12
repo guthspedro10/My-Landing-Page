@@ -1,33 +1,32 @@
-# 👨🏻‍💻 Landing Page Pessoal
-Este repositório contém o código da minha **`landing page pessoal`**, desenvolvida para apresentar quem eu sou, minhas habilidades e meus projetos na área de desenvolvimento.
-O objetivo da página é servir como um **`portfólio online`**, onde visitantes podem conhecer meu trabalho, tecnologias que utilizo e alguns projetos desenvolvidos por mim.
+# 👨🏻‍💻 Personal Landing Page
+This repository contains the code for my **`personal landing page`**, developed to present who I am, my skills, and my projects in the development field.  
+The goal of this page is to serve as an **`online portfolio`**, where visitors can learn about my work, the technologies I use, and some projects I have developed.
 
-A página apresenta informações como:
+The page includes information such as:
 
-- Apresentação pessoal
-- Tecnologias e habilidades
-- Projetos desenvolvidos
-- Formas de contato
+- Personal introduction
+- Technologies and skills
+- Developed projects
+- Contact information
 
-## 🛠️ Tecnologias Utilizadas
+## 🛠️ Technologies Used
 - HTML5  
 - CSS3  
 - JavaScript  
 
-## 🎯 Objetivo
-Este projeto foi criado com o objetivo de:
+## 🎯 Purpose
+This project was created with the goal of:
 
-- Desenvolver uma página pessoal para apresentação profissional
-- Praticar **`desenvolvimento web`**
-- Organizar meus projetos e habilidades em um único lugar
+- Developing a personal page for professional presentation
+- Practicing **`web development`**
+- Organizing my projects and skills in a single place
 
-## 🚀 Como Visualizar
-1. Clone este repositório:
+## 🚀 How to View
+1. Clone this repository:
+git clone https://github.com/guthspedro10/My-Landing-Page.git
 
-  git clone https://github.com/guthspedro10/Minha-Landing-Page.git
+2. Open the `index.html` file in your browser.
 
-2. Abra o arquivo `index.html` no navegador.
-
-## 📌 Status do Projeto
-✅ **`Concluído`**  
-🔧 Sujeito a melhorias e atualizações conforme novos projetos forem desenvolvidos.
+## 📌 Project Status
+✅ **`Completed`**  
+🔧 Subject to improvements and updates as new projects are developed.
