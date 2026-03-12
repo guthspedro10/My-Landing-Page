@@ -24,7 +24,7 @@ Este projeto foi criado com o objetivo de:
 ## 🚀 Como Visualizar
 1. Clone este repositório:
 
-git clone https://github.com/seu-usuario/seu-repositorio.git
+git clone https://github.com/guthspedro10/Minha-Landing-Page.git
 
 2. Abra o arquivo `index.html` no navegador.
 
