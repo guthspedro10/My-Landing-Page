@@ -17,17 +17,17 @@ A página apresenta informações como:
 ## 🎯 Objetivo
 Este projeto foi criado com o objetivo de:
 
-- Desenvolver uma **página pessoal para apresentação profissional**
-- Praticar desenvolvimento **web full stack**
+- Desenvolver uma página pessoal para apresentação profissional
+- Praticar **`desenvolvimento web`**
 - Organizar meus projetos e habilidades em um único lugar
 
 ## 🚀 Como Visualizar
 1. Clone este repositório:
 
-git clone https://github.com/guthspedro10/Minha-Landing-Page.git
+  git clone https://github.com/guthspedro10/Minha-Landing-Page.git
 
 2. Abra o arquivo `index.html` no navegador.
 
 ## 📌 Status do Projeto
-✅ Concluído  
+✅ **`Concluído`**  
 🔧 Sujeito a melhorias e atualizações conforme novos projetos forem desenvolvidos.
