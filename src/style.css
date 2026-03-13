@@ -338,3 +338,45 @@ header {
 .contato-item a:hover {
     color: #818e90;
 }
+
+.btn-cv{
+display:inline-block;
+margin-top:25px;
+padding:12px 30px;
+border:2px solid white;
+color:white;
+text-decoration:none;
+font-weight:600;
+letter-spacing:1px;
+transition:0.3s;
+}
+
+.btn-cv:hover{
+background:white;
+color:black;
+}
+
+.skills-container{
+display:grid;
+grid-template-columns:repeat(auto-fit,minmax(220px,1fr));
+gap:30px;
+max-width:1000px;
+margin-top:60px;
+}
+
+.skill{
+background-color:rgba(255,255,255,0.1);
+padding:25px;
+border-radius:10px;
+transition:0.3s;
+}
+
+.skill:hover{
+transform:translateY(-5px);
+background-color:rgba(255,255,255,0.2);
+}
+
+.skill h3{
+margin-top:0;
+font-size:1.3em;
+}
