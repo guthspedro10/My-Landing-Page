@@ -182,8 +182,8 @@ header {
 }
 
 .tecnologias img {
-    width: 40px;
-    height: 40px;
+    width: 45px;
+    height: 45px;
     object-fit: contain;
     transition: transform 0.2s ease-in-out;
 }
