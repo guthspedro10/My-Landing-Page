@@ -141,6 +141,7 @@ header {
     flex: 1;
     max-width: 60%;
     text-align: justify;
+    padding-top: 35px;
 }
 
 .sobre-mim-foto {
@@ -165,31 +166,6 @@ header {
     .sobre-mim-texto, .sobre-mim-foto {
         max-width: 100%;
     }
-}
-
-.tecnologias ul {
-    list-style: none;
-    padding: 0;
-    margin: 10px 0 0 0;
-    display: flex;
-    gap: 15px;
-    align-items: center;
-    padding-left: 15%;
-}
-
-.tecnologias li {
-    display: inline-block;
-}
-
-.tecnologias img {
-    width: 45px;
-    height: 45px;
-    object-fit: contain;
-    transition: transform 0.2s ease-in-out;
-}
-
-.tecnologias img:hover {
-    transform: scale(1.1);
 }
 
 .trabalhos-container {
@@ -376,7 +352,33 @@ transform:translateY(-5px);
 background-color:rgba(255,255,255,0.2);
 }
 
-.skill h3{
-margin-top:0;
-font-size:1.3em;
+.skills-container {
+    display: flex;
+    justify-content: center;
+    gap: 50px;
+    flex-wrap: wrap;
 }
+
+.skill {
+    text-align: center;
+}
+
+.skill-icons {
+    margin-top: 15px;
+    display: flex;
+    gap: 20px;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+
+.skill-icons i {
+    font-size: 45px;
+    transition: transform 0.3s, filter 0.3s;
+    cursor: pointer;
+}
+
+.skill-icons i:hover {
+    transform: scale(1.2);
+    filter: brightness(1.3);
+}
+
