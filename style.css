@@ -23,12 +23,14 @@ body {
     padding-left: 10%;
     position: relative;
 }
+
 .main-content {
     width: auto;
     max-width: 800px;
     margin-right: auto;
     padding-left: 50px;
 }
+
 .main-content h2 {
     font-size: 2em;
     font-weight: 200;
@@ -36,18 +38,21 @@ body {
     padding-left: 8px;
     padding-bottom: 17px;
 }
+
 .main-content h1 {
     font-size: 7em;
     font-weight: 700;
     margin: 0;
     line-height: 0.6;
 }
+
 .main-content h3 {
     font-size: 1.5em;
     font-weight: 300;
     letter-spacing: 0.2em;
     padding-left: 8px;
 }
+
 .social-icons {
     position: absolute;
     bottom: 30px;
@@ -60,14 +65,17 @@ body {
     z-index: 999;
     right: 70px;
 }
+
 .social-icons a {
     color: #fff;
     transition: color 0.2s ease, transform 0.5s ease;
 }
+
 .social-icons a:hover {
     color: #818e90;
     transform: translateY(-5px);
 }
+
 .secao-conteudo {
     min-height: 100vh;
     padding: 0 50px 50px 50px;
@@ -80,6 +88,7 @@ body {
     align-items: center;
     text-align: center;
 }
+
 header {
     position: fixed;
     padding-top: 20px;
@@ -91,6 +100,7 @@ header {
     font-family: "Montserrat", sans-serif;
     z-index: 1000;
 }
+
 .lista ul {
     list-style: none;
     padding-top: 20px;
@@ -99,6 +109,7 @@ header {
     gap: 80px;
     font-weight: 350;
 }
+
 .lista a {
     color: #fff;
     text-decoration: none;
@@ -107,6 +118,7 @@ header {
     position: relative;
     transition: color 0.3s ease;
 }
+
 .lista a::after {
     content: '';
     position: absolute;
@@ -118,9 +130,11 @@ header {
     background-color: #fff;
     transition: width 0.3s ease;
 }
+
 .lista a:hover::after {
     width: 100%;
 }
+
 .minha.foto {
     width: 250px;
     border-radius: 200px;
@@ -223,7 +237,7 @@ header {
 .card-trabalho p {
     font-size: 0.9em;
     color: #ccc;
-    margin-bottom: 15px;
+    margin-bottom: 35px;
     flex-grow: 1;
 }
 
@@ -239,7 +253,7 @@ header {
     padding: 4px 8px;
     border-radius: 5px;
     margin: 3px;
-    font-weight: 500;
+    font-weight: 500;;
 }
 
 .btn-projeto {
@@ -314,41 +328,42 @@ header {
     color: #818e90;
 }
 
-.btn-cv{
-display:inline-block;
-margin-top:25px;
-padding:12px 30px;
-border:2px solid white;
-color:white;
-text-decoration:none;
-font-weight:600;
-letter-spacing:1px;
-transition:0.3s;
+.btn-cv {
+    display: inline-block;
+    margin-top: 25px;
+    padding: 12px 30px;
+    border: 2px solid white;
+    color: white;
+    text-decoration: none;
+    font-weight: 600;
+    letter-spacing: 1px;
+    transition: 0.3s;
 }
 
-.btn-cv:hover{
-background:white;
-color:black;
+.btn-cv:hover {
+    background: white;
+    color: black;
 }
 
-.skills-container{
-display:grid;
-grid-template-columns:repeat(auto-fit,minmax(220px,1fr));
-gap:30px;
-max-width:1000px;
-margin-top:60px;
+.skills-container {
+    display: grid;
+    grid-template-columns:repeat(auto-fit, minmax(220px, 1fr));
+    gap: 30px;
+    max-width: 1000px;
+    margin-top: 60px;
+    padding-bottom: 90px;
 }
 
-.skill{
-background-color:rgba(255,255,255,0.1);
-padding:25px;
-border-radius:10px;
-transition:0.3s;
+.skill {
+    background-color: rgba(255, 255, 255, 0.1);
+    padding: 25px;
+    border-radius: 10px;
+    transition: 0.3s;
 }
 
-.skill:hover{
-transform:translateY(-5px);
-background-color:rgba(255,255,255,0.2);
+.skill:hover {
+    transform: translateY(-5px);
+    background-color: rgba(255, 255, 255, 0.2);
 }
 
 .skills-container {
